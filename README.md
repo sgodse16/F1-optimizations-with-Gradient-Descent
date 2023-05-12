@@ -1,7 +1,8 @@
 # F1-optimizations-with-Gradient-Descent
 
 This was the final project for 24703 - Numerical Methods taught by Prof. Alan McGaughey at CMU in Spring '23.
-Teammates: Niranjan Bhombe and Parth Malpathak
+
+Teammates: [Niranjan Bhombe](https://www.linkedin.com/in/niranjan-bhombe-364704127/) and [Parth Malpathak](https://github.com/parthmalpathak)
 
 We attempted to optimize the raceline for a single 90° corner using numerical methods. We first discretize the domain as shown below
 ![problem_setup](https://github.com/sgodse16/F1-optimizations-with-Gradient-Descent/assets/109099769/6df06f6f-a092-4581-a5a8-79a2a75f871d)
